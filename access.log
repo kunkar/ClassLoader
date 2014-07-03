@@ -1,0 +1,3 @@
+192.168.1.132 - - [03/Jul/2014:06:35:02 +0200] "GET /tsw/esercizio1/ HTTP/1.1" 404 498 "http://test/tsw/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36"
+192.168.1.132 - - [03/Jul/2014:06:35:05 +0200] "GET / HTTP/1.1" 200 222 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36"
+192.168.1.132 - - [03/Jul/2014:06:36:50 +0200] "GET / HTTP/1.1" 200 223 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36"
