@@ -1,7 +1,13 @@
 {
-	"autoload":{
+	"autoload": {
        "classmap": [
-           "app"
-	   ]
+           "app/model",
+           "app/view",
+           "app/controller"
+       ]
+    },
+
+    "require":{
+        "monolog/monolog": "dev-master"
     }
 }

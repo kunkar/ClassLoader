@@ -1,0 +1,213 @@
+[Thu Jul 03 06:47:37.651064 2014] [:error] [pid 23214] [client 192.168.1.132:40435] PHP Warning:  require(vendor/autoload): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 06:47:37.651121 2014] [:error] [pid 23214] [client 192.168.1.132:40435] PHP Stack trace:
+[Thu Jul 03 06:47:37.651135 2014] [:error] [pid 23214] [client 192.168.1.132:40435] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:47:37.651187 2014] [:error] [pid 23214] [client 192.168.1.132:40435] PHP Fatal error:  require(): Failed opening required 'vendor/autoload' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 06:47:37.651197 2014] [:error] [pid 23214] [client 192.168.1.132:40435] PHP Stack trace:
+[Thu Jul 03 06:47:37.651205 2014] [:error] [pid 23214] [client 192.168.1.132:40435] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:47:56.696246 2014] [:error] [pid 23215] [client 192.168.1.132:40444] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 06:47:56.696289 2014] [:error] [pid 23215] [client 192.168.1.132:40444] PHP Stack trace:
+[Thu Jul 03 06:47:56.696302 2014] [:error] [pid 23215] [client 192.168.1.132:40444] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:47:56.696354 2014] [:error] [pid 23215] [client 192.168.1.132:40444] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 06:47:56.696364 2014] [:error] [pid 23215] [client 192.168.1.132:40444] PHP Stack trace:
+[Thu Jul 03 06:47:56.696372 2014] [:error] [pid 23215] [client 192.168.1.132:40444] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:49:44.507206 2014] [:error] [pid 23217] [client 192.168.1.132:40465] PHP Fatal error:  Class 'FramewWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:49:44.507256 2014] [:error] [pid 23217] [client 192.168.1.132:40465] PHP Stack trace:
+[Thu Jul 03 06:49:44.507274 2014] [:error] [pid 23217] [client 192.168.1.132:40465] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:50:35.631509 2014] [:error] [pid 23313] [client 192.168.1.132:40485] PHP Fatal error:  Class 'FramewWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:50:35.631558 2014] [:error] [pid 23313] [client 192.168.1.132:40485] PHP Stack trace:
+[Thu Jul 03 06:50:35.631574 2014] [:error] [pid 23313] [client 192.168.1.132:40485] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:50:36.214806 2014] [:error] [pid 23313] [client 192.168.1.132:40485] PHP Fatal error:  Class 'FramewWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:50:36.214838 2014] [:error] [pid 23313] [client 192.168.1.132:40485] PHP Stack trace:
+[Thu Jul 03 06:50:36.214850 2014] [:error] [pid 23313] [client 192.168.1.132:40485] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:50:36.428370 2014] [:error] [pid 23313] [client 192.168.1.132:40485] PHP Fatal error:  Class 'FramewWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:50:36.428392 2014] [:error] [pid 23313] [client 192.168.1.132:40485] PHP Stack trace:
+[Thu Jul 03 06:50:36.428404 2014] [:error] [pid 23313] [client 192.168.1.132:40485] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:51:14.733326 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:51:14.733363 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP Stack trace:
+[Thu Jul 03 06:51:14.733378 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:51:15.284500 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:51:15.284531 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP Stack trace:
+[Thu Jul 03 06:51:15.284543 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:51:15.517278 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:51:15.517298 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP Stack trace:
+[Thu Jul 03 06:51:15.517310 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:51:15.861704 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:51:15.861726 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP Stack trace:
+[Thu Jul 03 06:51:15.861737 2014] [:error] [pid 23213] [client 192.168.1.132:40486] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:51:29.276361 2014] [:error] [pid 23214] [client 192.168.1.132:40487] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:51:29.276395 2014] [:error] [pid 23214] [client 192.168.1.132:40487] PHP Stack trace:
+[Thu Jul 03 06:51:29.276407 2014] [:error] [pid 23214] [client 192.168.1.132:40487] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:51:29.730533 2014] [:error] [pid 23214] [client 192.168.1.132:40487] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:51:29.730555 2014] [:error] [pid 23214] [client 192.168.1.132:40487] PHP Stack trace:
+[Thu Jul 03 06:51:29.730566 2014] [:error] [pid 23214] [client 192.168.1.132:40487] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:51:29.948793 2014] [:error] [pid 23214] [client 192.168.1.132:40487] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:51:29.948814 2014] [:error] [pid 23214] [client 192.168.1.132:40487] PHP Stack trace:
+[Thu Jul 03 06:51:29.948825 2014] [:error] [pid 23214] [client 192.168.1.132:40487] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:54:07.511501 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:54:07.511537 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP Stack trace:
+[Thu Jul 03 06:54:07.511549 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:54:08.039840 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:54:08.039864 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP Stack trace:
+[Thu Jul 03 06:54:08.039876 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:54:08.465381 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:54:08.465435 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP Stack trace:
+[Thu Jul 03 06:54:08.465448 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:54:08.672447 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:54:08.672467 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP Stack trace:
+[Thu Jul 03 06:54:08.672479 2014] [:error] [pid 23215] [client 192.168.1.132:40503] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:55:24.612213 2014] [:error] [pid 23216] [client 192.168.1.132:40514] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:55:24.612256 2014] [:error] [pid 23216] [client 192.168.1.132:40514] PHP Stack trace:
+[Thu Jul 03 06:55:24.612271 2014] [:error] [pid 23216] [client 192.168.1.132:40514] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:55:25.162372 2014] [:error] [pid 23216] [client 192.168.1.132:40514] PHP Fatal error:  Class 'FrameWork' not found in /home/myroot/virtualhost/test/public/index.php on line 9
+[Thu Jul 03 06:55:25.162403 2014] [:error] [pid 23216] [client 192.168.1.132:40514] PHP Stack trace:
+[Thu Jul 03 06:55:25.162416 2014] [:error] [pid 23216] [client 192.168.1.132:40514] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:59:47.911287 2014] [:error] [pid 23214] [client 192.168.1.132:40575] PHP Fatal error:  Class 'Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 06:59:47.911323 2014] [:error] [pid 23214] [client 192.168.1.132:40575] PHP Stack trace:
+[Thu Jul 03 06:59:47.911335 2014] [:error] [pid 23214] [client 192.168.1.132:40575] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:59:53.478509 2014] [:error] [pid 23215] [client 192.168.1.132:40576] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 06:59:53.478543 2014] [:error] [pid 23215] [client 192.168.1.132:40576] PHP Stack trace:
+[Thu Jul 03 06:59:53.478556 2014] [:error] [pid 23215] [client 192.168.1.132:40576] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:59:53.971922 2014] [:error] [pid 23215] [client 192.168.1.132:40576] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 06:59:53.971945 2014] [:error] [pid 23215] [client 192.168.1.132:40576] PHP Stack trace:
+[Thu Jul 03 06:59:53.971957 2014] [:error] [pid 23215] [client 192.168.1.132:40576] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 06:59:54.171213 2014] [:error] [pid 23215] [client 192.168.1.132:40576] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 06:59:54.171242 2014] [:error] [pid 23215] [client 192.168.1.132:40576] PHP Stack trace:
+[Thu Jul 03 06:59:54.171254 2014] [:error] [pid 23215] [client 192.168.1.132:40576] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:00:04.462658 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:00:04.462687 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP Stack trace:
+[Thu Jul 03 07:00:04.462700 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:00:04.827771 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:00:04.827793 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP Stack trace:
+[Thu Jul 03 07:00:04.827806 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:00:05.001596 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:00:05.001634 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP Stack trace:
+[Thu Jul 03 07:00:05.001646 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:00:05.210660 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:00:05.210687 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP Stack trace:
+[Thu Jul 03 07:00:05.210699 2014] [:error] [pid 23216] [client 192.168.1.132:40577] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:00:13.534022 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:00:13.534051 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Stack trace:
+[Thu Jul 03 07:00:13.534062 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:00:14.052101 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:00:14.052131 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Stack trace:
+[Thu Jul 03 07:00:14.052142 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:00:14.218750 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:00:14.218777 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Stack trace:
+[Thu Jul 03 07:00:14.218788 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:00:14.401586 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:00:14.401608 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Stack trace:
+[Thu Jul 03 07:00:14.401619 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:00:14.577392 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:00:14.577438 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Stack trace:
+[Thu Jul 03 07:00:14.577450 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:00:14.810261 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:00:14.810282 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP Stack trace:
+[Thu Jul 03 07:00:14.810293 2014] [:error] [pid 23217] [client 192.168.1.132:40578] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:01:50.159462 2014] [:error] [pid 23313] [client 192.168.1.132:40628] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:01:50.159492 2014] [:error] [pid 23313] [client 192.168.1.132:40628] PHP Stack trace:
+[Thu Jul 03 07:01:50.159505 2014] [:error] [pid 23313] [client 192.168.1.132:40628] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:02:16.339088 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:02:16.339134 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Stack trace:
+[Thu Jul 03 07:02:16.339145 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:02:16.339190 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:02:16.339201 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Stack trace:
+[Thu Jul 03 07:02:16.339210 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:02:21.010463 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:02:21.010497 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Stack trace:
+[Thu Jul 03 07:02:21.010509 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:02:21.010553 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:02:21.010561 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Stack trace:
+[Thu Jul 03 07:02:21.010580 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:02:21.457168 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:02:21.457196 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Stack trace:
+[Thu Jul 03 07:02:21.457208 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:02:21.457252 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:02:21.457259 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Stack trace:
+[Thu Jul 03 07:02:21.457268 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:02:21.640049 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:02:21.640070 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Stack trace:
+[Thu Jul 03 07:02:21.640081 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:02:21.640122 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:02:21.640129 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Stack trace:
+[Thu Jul 03 07:02:21.640138 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:02:21.823413 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:02:21.823432 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Stack trace:
+[Thu Jul 03 07:02:21.823442 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:02:21.823482 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:02:21.823489 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP Stack trace:
+[Thu Jul 03 07:02:21.823497 2014] [:error] [pid 23213] [client 192.168.1.132:40629] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:13.508036 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:13.508069 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Stack trace:
+[Thu Jul 03 07:03:13.508081 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:13.508125 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:13.508133 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Stack trace:
+[Thu Jul 03 07:03:13.508141 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:14.039670 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:14.039697 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Stack trace:
+[Thu Jul 03 07:03:14.039708 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:14.039751 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:14.039758 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Stack trace:
+[Thu Jul 03 07:03:14.039767 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:14.215130 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:14.215157 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Stack trace:
+[Thu Jul 03 07:03:14.215169 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:14.215213 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:14.215236 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP Stack trace:
+[Thu Jul 03 07:03:14.215245 2014] [:error] [pid 23214] [client 192.168.1.132:40639] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:42.117964 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:42.118001 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Stack trace:
+[Thu Jul 03 07:03:42.118013 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:42.118057 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:42.118065 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Stack trace:
+[Thu Jul 03 07:03:42.118073 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:42.392222 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:42.392249 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Stack trace:
+[Thu Jul 03 07:03:42.392260 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:42.392303 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:42.392311 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Stack trace:
+[Thu Jul 03 07:03:42.392319 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:42.580952 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:42.580972 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Stack trace:
+[Thu Jul 03 07:03:42.580983 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:42.581026 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:42.581033 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Stack trace:
+[Thu Jul 03 07:03:42.581042 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:42.806329 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:42.806349 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Stack trace:
+[Thu Jul 03 07:03:42.806360 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:42.806419 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:42.806427 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP Stack trace:
+[Thu Jul 03 07:03:42.806435 2014] [:error] [pid 23215] [client 192.168.1.132:40640] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:52.206568 2014] [:error] [pid 23216] [client 192.168.1.132:40641] PHP Warning:  require_once(/home/myroot/virtualhost/test/public/vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:52.206599 2014] [:error] [pid 23216] [client 192.168.1.132:40641] PHP Stack trace:
+[Thu Jul 03 07:03:52.206610 2014] [:error] [pid 23216] [client 192.168.1.132:40641] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:03:52.206654 2014] [:error] [pid 23216] [client 192.168.1.132:40641] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public/vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:03:52.206668 2014] [:error] [pid 23216] [client 192.168.1.132:40641] PHP Stack trace:
+[Thu Jul 03 07:03:52.206676 2014] [:error] [pid 23216] [client 192.168.1.132:40641] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:04:32.520853 2014] [:error] [pid 23313] [client 192.168.1.132:40643] PHP Warning:  require_once(/home/myroot/virtualhost/test/public../vendor/autoload.php): failed to open stream: No such file or directory in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:04:32.520888 2014] [:error] [pid 23313] [client 192.168.1.132:40643] PHP Stack trace:
+[Thu Jul 03 07:04:32.520900 2014] [:error] [pid 23313] [client 192.168.1.132:40643] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:04:32.520975 2014] [:error] [pid 23313] [client 192.168.1.132:40643] PHP Fatal error:  require_once(): Failed opening required '/home/myroot/virtualhost/test/public../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/myroot/virtualhost/test/public/index.php on line 1
+[Thu Jul 03 07:04:32.520989 2014] [:error] [pid 23313] [client 192.168.1.132:40643] PHP Stack trace:
+[Thu Jul 03 07:04:32.520999 2014] [:error] [pid 23313] [client 192.168.1.132:40643] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:09:18.245661 2014] [:error] [pid 23215] [client 192.168.1.132:40655] PHP Fatal error:  Class 'Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:09:18.245695 2014] [:error] [pid 23215] [client 192.168.1.132:40655] PHP Stack trace:
+[Thu Jul 03 07:09:18.245708 2014] [:error] [pid 23215] [client 192.168.1.132:40655] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:09:22.874690 2014] [:error] [pid 23215] [client 192.168.1.132:40655] PHP Fatal error:  Class 'App\\Framework' not found in /home/myroot/virtualhost/test/public/index.php on line 11
+[Thu Jul 03 07:09:22.874721 2014] [:error] [pid 23215] [client 192.168.1.132:40655] PHP Stack trace:
+[Thu Jul 03 07:09:22.874733 2014] [:error] [pid 23215] [client 192.168.1.132:40655] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:17:42.965555 2014] [:error] [pid 23216] [client 192.168.1.132:40739] PHP Fatal error:  Class 'App\\CalculatorController' not found in /home/myroot/virtualhost/test/public/index.php on line 13
+[Thu Jul 03 07:17:42.965587 2014] [:error] [pid 23216] [client 192.168.1.132:40739] PHP Stack trace:
+[Thu Jul 03 07:17:42.965600 2014] [:error] [pid 23216] [client 192.168.1.132:40739] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:19:20.744761 2014] [:error] [pid 23217] [client 192.168.1.132:40744] PHP Fatal error:  Class 'App\\Controller\\CalculatorController' not found in /home/myroot/virtualhost/test/public/index.php on line 13
+[Thu Jul 03 07:19:20.744798 2014] [:error] [pid 23217] [client 192.168.1.132:40744] PHP Stack trace:
+[Thu Jul 03 07:19:20.744810 2014] [:error] [pid 23217] [client 192.168.1.132:40744] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:19:21.594486 2014] [:error] [pid 23217] [client 192.168.1.132:40744] PHP Fatal error:  Class 'App\\Controller\\CalculatorController' not found in /home/myroot/virtualhost/test/public/index.php on line 13
+[Thu Jul 03 07:19:21.594518 2014] [:error] [pid 23217] [client 192.168.1.132:40744] PHP Stack trace:
+[Thu Jul 03 07:19:21.594530 2014] [:error] [pid 23217] [client 192.168.1.132:40744] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:20:38.763803 2014] [:error] [pid 23213] [client 192.168.1.132:40749] PHP Fatal error:  Class 'CalculatorController' not found in /home/myroot/virtualhost/test/public/index.php on line 13
+[Thu Jul 03 07:20:38.763834 2014] [:error] [pid 23213] [client 192.168.1.132:40749] PHP Stack trace:
+[Thu Jul 03 07:20:38.763847 2014] [:error] [pid 23213] [client 192.168.1.132:40749] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
+[Thu Jul 03 07:20:43.662796 2014] [:error] [pid 23213] [client 192.168.1.132:40749] PHP Fatal error:  Class 'App\\CalculatorController' not found in /home/myroot/virtualhost/test/public/index.php on line 13
+[Thu Jul 03 07:20:43.662828 2014] [:error] [pid 23213] [client 192.168.1.132:40749] PHP Stack trace:
+[Thu Jul 03 07:20:43.662840 2014] [:error] [pid 23213] [client 192.168.1.132:40749] PHP   1. {main}() /home/myroot/virtualhost/test/public/index.php:0
