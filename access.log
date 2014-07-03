@@ -68,3 +68,6 @@
 192.168.1.132 - - [03/Jul/2014:07:20:38 +0200] "GET / HTTP/1.1" 200 783 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36"
 192.168.1.132 - - [03/Jul/2014:07:20:43 +0200] "GET / HTTP/1.1" 200 789 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36"
 192.168.1.132 - - [03/Jul/2014:07:20:48 +0200] "GET / HTTP/1.1" 200 391 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36"
+192.168.1.132 - - [03/Jul/2014:07:26:33 +0200] "GET / HTTP/1.1" 200 390 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36"
+192.168.1.132 - - [03/Jul/2014:07:26:52 +0200] "GET / HTTP/1.1" 200 390 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36"
+192.168.1.132 - - [03/Jul/2014:07:27:07 +0200] "GET / HTTP/1.1" 200 406 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36"

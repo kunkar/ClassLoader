@@ -12,6 +12,8 @@
 
         new App\Controller\CalculatorController;
 
+        echo "versione attuale";
+
     ?>
 
 </body>
